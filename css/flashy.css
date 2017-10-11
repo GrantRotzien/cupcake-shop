@@ -1,0 +1,14 @@
+h1.flashy {
+  width: 50%;
+  font-style: italic;
+}
+
+body {
+  text-align: center;
+  color: red
+}
+
+li.best {
+  color: pink;
+  font-weight: bold;
+}
